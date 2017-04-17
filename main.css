@@ -1,0 +1,11 @@
+div{
+  display: block;
+  padding-bottom: 40px;
+}
+.amarillo{
+  background: yellow;
+}
+.rojo{
+  background: red;
+  border: solid 1px;
+}
