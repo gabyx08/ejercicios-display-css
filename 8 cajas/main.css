@@ -1,0 +1,19 @@
+div{
+  border: solid 2px;
+  margin: 10px;
+  background: gray;
+}
+.cuadrado{
+  width: 100px;
+  height: 100px;
+}
+.rectangulo{
+  width: 380px;
+}
+.inline{
+  display: inline-block;
+}
+
+.block{
+  display: block;
+}
