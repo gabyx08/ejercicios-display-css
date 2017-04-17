@@ -1,10 +1,8 @@
 div{
-  display: block;
+  display: inline;
   padding: 10px;
-  width: 200px;
-  height: 70px;
-  margin: 20px;
   font-family: verdana;
+  margin-left: 10px;
 }
 .amarillo{
   background: yellow;
