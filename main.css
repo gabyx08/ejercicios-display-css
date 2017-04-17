@@ -1,11 +1,14 @@
 div{
   display: block;
-  padding-bottom: 40px;
+  padding: 10px;
+  width: 200px;
+  height: 70px;
+  margin: 20px;
+  font-family: verdana;
 }
 .amarillo{
   background: yellow;
 }
 .rojo{
   background: red;
-  border: solid 1px;
 }
